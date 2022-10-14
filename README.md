@@ -1,1 +1,2 @@
 # smash
+## node index.js
