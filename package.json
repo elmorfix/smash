@@ -1,0 +1,15 @@
+{
+  "name": "smashapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "André Carvalho",
+  "license": "ISC",
+  "dependencies": {
+    "@natanbarbosa2/smashapi": "^1.2.4",
+    "express": "^4.18.1"
+  }
+}
